@@ -45,7 +45,7 @@ void loop()
 ```
 
 ### OUTPUT
-![0utput](ex6.png)
+![0utput](EXX6.png)
 
 
 ### RESULTS AND DISCUSSION 
